@@ -85,27 +85,29 @@ Appliance -
 Complete Layout of the Smart Warehouse<br>
 
 
-![Project Image](https://github.com/Tarun-yadav777/Covid_risk_tracker/blob/main/detections/test.gif)
+![Project Image](https://github.com/Tarun-yadav777/Smart_warehouse_using_CISCO_PACKET_TRACER/blob/main/static/1.PNG)
 
 First functionality is the fire sense and fire extinguish system. Fire is sensed by fire sensor then it passed the signal to connected MCU and then MCU passed the signal to the sprinkler to extinguish the fire before any damage caused.<br>
 
 
-![Project Image](https://github.com/Tarun-yadav777/Covid_risk_tracker/blob/main/detections/test.gif)
+![Project Image](https://github.com/Tarun-yadav777/Smart_warehouse_using_CISCO_PACKET_TRACER/blob/main/static/2.PNG)
+
+![Project Image](https://github.com/Tarun-yadav777/Smart_warehouse_using_CISCO_PACKET_TRACER/blob/main/static/3.PNG)
 
 Second Functionality is to make quality of life better and easier by using of appliances such as smart fan, smart light and smart window which can be controlled by a smart phone which is connected to a gateway which control all the appliances.<br>
 
 
-![Project Image](https://github.com/Tarun-yadav777/Covid_risk_tracker/blob/main/detections/test.gif)
+![Project Image](https://github.com/Tarun-yadav777/Smart_warehouse_using_CISCO_PACKET_TRACER/blob/main/static/4.PNG)
 
 Third functionality is for improving the security measure by using motion sensor, webcam and a automatic smart door.Webcam start recording once motion sensor sense any motion around it and a smart door is connected with the same smart phone which is connected to same gateway discussed above to control the movement of door accordingly.<br>
 
 
-![Project Image](https://github.com/Tarun-yadav777/Covid_risk_tracker/blob/main/detections/test.gif)
+![Project Image](https://github.com/Tarun-yadav777/Smart_warehouse_using_CISCO_PACKET_TRACER/blob/main/static/6.PNG)
 
 Fourth functionality is to maintain the quality of the product stored inside the warehouse by controlling the temperature inside the warehouse.A thermostat is used for monitoring the temperature continuously which is connected to a same gateway discussed above and a smart ac is also connected to it which is used to control the temperature accordingly.<br>
 
 
-![Project Image](https://github.com/Tarun-yadav777/Covid_risk_tracker/blob/main/detections/test.gif)
+![Project Image](https://github.com/Tarun-yadav777/Smart_warehouse_using_CISCO_PACKET_TRACER/blob/main/static/6.PNG)
 
 
 [Back To The Top](#read-me-template)
